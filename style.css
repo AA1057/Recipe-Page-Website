@@ -183,11 +183,11 @@ hr {
     margin-bottom: 0;
 }
 
-@media screen and (max-width:46.875em) {
+@media screen and (max-width:46.875rem) {
     body {
         display: inline-block;
         background-color: white;
-        width: 23.4375em;
+        width: 23.4375rem;
         align-items: flex-start;
     }
 
